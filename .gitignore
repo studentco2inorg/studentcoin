@@ -1,0 +1,34 @@
+src/*.exe
+src/studentcoin
+src/studentcoind
+src/test_studentcoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.studentcoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+studentcoin-qt
+studentcoin-Qt.app
+
+# Unit-tests
+Makefile.test
+studentcoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
