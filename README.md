@@ -1,10 +1,10 @@
 studentcoin integration/staging tree
 ================================
 
-http://www.studentcoin.org
+http://www.studentco.in
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 studentcoin Developers
+Copyright (c) 2009-2019 Bitcoin Developers
+Copyright (c) 2019-2020 studentcoin Developers
 
 What is studentcoin?
 ----------------
@@ -19,7 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the studentcoin client sofware, see http://www.studentcoin.org.
+the studentcoin client sofware, see http://www.studentco.in
 
 License
 -------
